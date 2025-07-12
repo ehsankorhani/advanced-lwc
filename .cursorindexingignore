@@ -1,0 +1,6 @@
+# .cursorindexingignore (performance-focused)
+node_modules/
+dist/
+build/
+*.log
+coverage/

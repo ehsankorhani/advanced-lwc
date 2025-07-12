@@ -1,0 +1,4 @@
+# .cursorignore (security-focused)
+.env*
+*.key
+secrets/
